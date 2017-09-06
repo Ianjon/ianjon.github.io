@@ -158,6 +158,17 @@ To make things a little easier for removing/replacing the cable if an accident h
 I suggest that you follow the ethernet cable setup A, which is this diagram below for the setup. 
 ![cable A](http://www.incentre.net/wp-content/uploads/2015/02/ethcable568a.gif). 
 
+You're going to want to get some ethernet cabling and strip it a few centimeters as so. 
+![Stripped cable](http://i.imgur.com/lpdCSEm.jpg)
+
+Then you're going to want to make sure they're all about the same length. 
+![Stripped and even length](http://i.imgur.com/1hJhS5w.jpg) 
+
+After that's all done, you're going to thread the ethernet plug in as so and crip it with an ethernet crimper. 
+![Threaded](http://i.imgur.com/g6IyDzn.jpg)
+![Crimped](http://i.imgur.com/nfbiKWw.jpg)
+
+
 You're going to need an ethernet crimper for this part. Highly suggest you get 3 female jumper cables that follows or resembles 3 of the cable colors so that you don't have to question if you plugged it in wrong.  Cut the female jumper cables in half and push them in the punch as this image :![Work](http://i.imgur.com/4kU8ypx.jpg). 
 Make sure you solder the cables onto the right colored cables so that the sensor(s) work. Once that's done, you can plug it in like a regular computer, but instead of reading internet it will be doing the temperature and humidity readings. This is what it should look like :
 ![soldered dht 22 w/ethernetpunch](http://i.imgur.com/4TCrpnJ.jpg)
