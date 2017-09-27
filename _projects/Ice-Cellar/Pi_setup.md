@@ -224,6 +224,15 @@ plt.show()
 ### Setting up the ground sensor(Previous mentioned libraries will also need to be installed): 
 You're going to need to install the library in the terminal window with the command: ```sudo apt-get install python-w1thermsensor```. Within the same terminal window, type in : ```debuild -us -uc```, then after that's done :```dpkg -i ./python-w1-thermsensor_*.deb```.
 
+Here's an image of what it looks like 
+![Ground_Sensor](https://i.imgur.com/eKaLqsB.jpg)
+
+Here we're going to be wiring the ground sensor similarly to the DHT 22 sensor. For the ethernet connecting part, follow the DHT-Ethernet setup part, as it will be very similar.
+
+After that's done, it should look like this: 
+![Ethernet connected ground sensor](https://i.imgur.com/SmZFAk2.jpg)
+
+
 Now for the code you'll be typing into a python script: 
 
 ```
