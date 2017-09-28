@@ -78,3 +78,12 @@ August 17,2017 : With the help of Sam George, managed to get the ground temperat
 
 August 28, 2017: Tested the DHT 22 sensor with about a 80 foot ethernet extension cable soldered onto it. Works fine with a 2.2k ohm resistor. 
 
+September 5, 2017: Writing a step by step guide on how to setup the raspberry pi with pictures and clear instructions. 
+
+September 14, 2017: Invited last minute to present at the student section for the Ocean 17 conference. 
+
+September 20, 2017: Presented at the Ocean 17 conference. Should be getting some emails about the project. One question in particular that stood out was that there is people in the lower part of Alaska aging there fish through the ground. He told me that quite a few people are dying because they are eating the wrongly aged fish due to temperature risings. He hinted at how my project could be aimed towards that. 
+
+September 27, 2017: Setup a live cold environment testing for the battery pack in the GINA refridgerator to simulate North Slope summers. Precisely to see how well the power bank does in semi-cold weather. 
+
+
