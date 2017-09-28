@@ -113,10 +113,10 @@ csvfile = "temp.csv"
 als = True
 while als:
     humidity, temperature = Adafruit_DHT.read_retry(Adafruit_DHT.DHT22, 4) 
-    if humidity is not None and temperature is not NOne:
+    if humidity is not None and temperature is not None:
         humidity = round(humidity,2)
         temperature = round(temperature,2)
-        print("Temperature = {0:0.1f}*F Humidity = {1:0.1f}" .format(((temperature*9)/5)+32 , humidity)
+        print("Temperature = {0:0.1f}*F Humidity = {1:0.1f}" .format(((temperature*9)/5)+32 , humidity))
     else: 
         print('can not connect to sensor')
     timeC = time.strftime("%I")+':'+time.strftime("%M")+':'+time.strftime("%S")
