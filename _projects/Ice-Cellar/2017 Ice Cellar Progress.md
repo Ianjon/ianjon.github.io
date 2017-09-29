@@ -95,3 +95,4 @@ Retrieved the first power bank test from the fridge. Lasted 26.61 hours, which i
 ![Image of Cases](https://i.imgur.com/8s7ugCY.jpg) 
 Little mishap... Need to modify the dimensions because I didn't factor in the board connected to the DHT 22 Sensor. 
 
+![yes](https://files.slack.com/files-tmb/T09EFU95K-F7ALPTT2M-ac58ade586/20170929_115732_720.jpg)
