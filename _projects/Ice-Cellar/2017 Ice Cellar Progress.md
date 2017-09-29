@@ -86,4 +86,12 @@ September 20, 2017: Presented at the Ocean 17 conference. Should be getting some
 
 September 27, 2017: Setup a live cold environment testing for the battery pack in the GINA refridgerator to simulate North Slope summers. Precisely to see how well the power bank does in semi-cold weather. 
 
+September 28, 2017: 
+Retrieved the first power bank test from the fridge. Lasted 26.61 hours, which is about an hour and a half under idle. DHT 22 sensor stopped recording for some reason during the same day, but thankfully the ground sensor was still tracking along. Going to see if II can tweak it for the next power bank testing which will commence next week along with the DHT22 Sensor casing. 
+
+3D Printed 2 cases for the DHT 22 Sensor, since going in and out with blubbery stuff can gunk a lot of things. Here's an image of the 3D printer and here's an actual image of the finished printing : 
+
+![Image of the 3D printing](https://i.imgur.com/SqY3IDL.jpg)  
+![Image of Cases](https://i.imgur.com/8s7ugCY.jpg) 
+Little mishap... Need to modify the dimensions because I didn't factor in the board connected to the DHT 22 Sensor. 
 
