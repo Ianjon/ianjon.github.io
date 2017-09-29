@@ -7,6 +7,12 @@ layout: default
 ### For Touch Screen Rotation
 If you want to flip your screen along with its touch configuration, for example your setup is meant for the device to work upsides down, open the terminal window and type: ``` sudo nano /boot/config.txt``` and type in on the forth line : ```lcd_rotate=2```. 
 
+# To get things to run on startup/reboot: open the command terminal and type : ```cd~/.config/lxsession/LXDE-pi```
+Then after that:``` sudo nano autostart```
+Once you're in that you're going to need to type this in order to get things running(Make sure it's in the pi folder to make it easier)
+```@python (insert python file script here)```. 
+To pull it up in the background: type tmux attach. 
+
 
 
 So here's a link to download the operating system onto the SD card/micro SD card if it doesn't come with it installed or it manages to go very wrong. 
