@@ -96,5 +96,5 @@ Retrieved the first power bank test from the fridge. Lasted 26.61 hours, which i
 Little mishap... Need to modify the dimensions because I didn't factor in the board connected to the DHT 22 Sensor. 
 
 September 29- October 2, 2017: 
-Batter bank test number 2: Lasted about 20.06 hours overall. About 6 hours less than the other battery bank, but when it's in the sunlight it'll also be charging. 
+Battery bank test number 2: Lasted about 20.06 hours overall. About 6 hours less than the other battery bank, but when it's in the sunlight it'll also be charging. 
 ![yes](https://i.imgur.com/mD1DHrw.jpg)
