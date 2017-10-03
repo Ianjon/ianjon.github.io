@@ -98,3 +98,5 @@ Little mishap... Need to modify the dimensions because I didn't factor in the bo
 September 29- October 2, 2017: 
 Battery bank test number 2: Lasted about 20.06 hours overall. About 6 hours less than the other battery bank, but when it's in the sunlight it'll also be charging. 
 ![yes](https://i.imgur.com/mD1DHrw.jpg)
+
+Getting another raspberry pi setup going today. 
