@@ -1,7 +1,4 @@
----
-title: Setting up the pi
-layout: default
----
+
 # This Project is protected under the MIT License
 # At the moment this is for the software side, this will be updated with pictures soon. 
 ### For Touch Screen Rotation
