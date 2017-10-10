@@ -100,3 +100,6 @@ Battery bank test number 2: Lasted about 20.06 hours overall. About 6 hours less
 ![yes](https://i.imgur.com/mD1DHrw.jpg)
 
 Getting another raspberry pi setup going today. 
+
+
+October 5,6,10 2017: Dived into a little bit of research for wind energy to recharge a power bank for the the devices. Updated the ice celler paper a little bit with my thoughts/comments on parts of the process. Waiting on some other supplies to come in. 
