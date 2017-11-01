@@ -104,4 +104,4 @@ Getting another raspberry pi setup going today.
 
 October 5,6,10 2017: Dived into a little bit of research for wind energy to recharge a power bank for the the devices. Updated the ice celler paper a little bit with my thoughts/comments on parts of the process. Waiting on some other supplies to come in. 
 
-October 23, 2017: Article published about the Ice Cellar project in the [!Alaska Business monthly](http://www.akbizmag.com/Education/North-Slope-Subsistence-Hunters-to-Use-Tech-for-Ice-Cellar-Temperature-Monitoring/). 
+October 23, 2017: Article published about the Ice Cellar project in the [Alaska Business monthly](http://www.akbizmag.com/Education/North-Slope-Subsistence-Hunters-to-Use-Tech-for-Ice-Cellar-Temperature-Monitoring/). 
