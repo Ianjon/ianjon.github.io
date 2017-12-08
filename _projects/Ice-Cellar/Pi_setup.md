@@ -237,57 +237,56 @@ After that's done, it should look like this:
 
 
 Now for the code you'll be typing into a python script: 
-
 ```
 import os
 import glob
 import time
 import csv
-import paho.mqtt.client as mqtt
+import phao.mqtt.client as mqttt
 import json
-csvfile='ground.csv'
+csvfile='ground2.csv'
 
-Thingsboard = "IP ADDRESS LISTED FOR THE WEBSERVICE"
-# Setup the thingsboard to your liking or contact the provider for assistance in setting it up via thingsboard.
-Access_token = "ACCESS_TOKEN" #Just a temperorary password, set it to what you have it as listed on the webservice site
+Thingsboard= "10.19.16.192"
+Access_token = "chickenwings"
 
 client = mqtt.Client()
-client.username_pw_set(Access_token)
-client.connect(Thingsboard,18883,20)
+client.username_pw_set(Access_Token)
+client.connect(Thingsboard,1883,20)
 client.loop_start()
 
 os.system('modprobe w1-gpio')
 os.system('modprobe w1-therm')
-base_dir = '/sys/bus/w1/devices/'
+
+base_dir = '/sys/bus/w1/devices'
 device_folder = glob.glob(base_dir +'28*')[0]
-device_file = device_folder + '/w1_slave'
+device_file = device_folder +'/w1_slave'
 
 def read_temp_raw():
-    f =open(device_file,'r')
-    lines = f.readlines()
-    f.close
+    f =open(device_file, 'r')
+    lines - f.readlines()
+    f.close()
     return lines
+
 def read_temp():
     lines = read_temp_raw()
-    while lines[0].strip()[-3] !='YES':
-        time.sleep(0.2)
-        lines = read_temp_raw():
-    equal_pos = lines[1].find('t=')
-    if equals_pos !=1:
+    while lines[0].strip()[-3:] !='YES':
+        time.sleep(.2)
+        lines = read__temp_raw()
+    equals_pos = lines[1].find('t=')
+    if equals_pos != -1:
         temp_string = lines[1][equals_pos+2:]
         temp_c = float(temp_string)/1000.0
-        temp_f = temp_c *9.0 /5.0 +32
-        return temp_c, temp_f
-
+        temp_f =temp_c *9.0 /5.0 +32
+        reutrn temp_c,temp_f
+        
 while True:
-    system_data ={'temperature' : read_temp()[0]}
-    client.publish('v1/devices/me/telemetry', json.dumps(system_data),1)
+    system_data = {'temperature': read_temp()[0]}
+    client.publish('v1/devices/me/telemetry',json.dumps(system_data),1)
     print(read_temp())
-    with open(csvfile, "a") as output:
-        data = (read_temp(), time.strftime("%m-%d-%Y))
-        writer = csv.writer(output,delimiter = "," , lineterminator = '\n')
+    with open(csvfile,"a") as output:
+        data = (read_temp(), time.strftime("%m-%d-%Y"))
+        writer= csv.writer(output, delimiter = ",", lineterminator = '\n')
         writer.writerow(data)
-        time.sleep(1)
 ```
 
 After that's done, go back into the terminal window and type : ```sudo nano /boot/config.txt```, scroll to the bottom and add this line to it : ```dtoverlay=w1-gpio```
