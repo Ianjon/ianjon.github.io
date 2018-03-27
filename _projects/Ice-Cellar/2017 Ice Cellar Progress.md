@@ -105,3 +105,14 @@ Getting another raspberry pi setup going today.
 October 5,6,10 2017: Dived into a little bit of research for wind energy to recharge a power bank for the the devices. Updated the ice celler paper a little bit with my thoughts/comments on parts of the process. Waiting on some other supplies to come in. 
 
 October 23, 2017: Article published about the Ice Cellar project in the [Alaska Business monthly](http://www.akbizmag.com/Education/North-Slope-Subsistence-Hunters-to-Use-Tech-for-Ice-Cellar-Temperature-Monitoring/). 
+
+December 14-January 4th : Got a live prototype working for about 9 days! The downside is that I forgot to put a weight down on it and during a windy snow day it blew open, which snow got in and it turned off. After half a day of drying it was in working conditions again. 
+
+Few notes to take from this is that the cabling used is not meant for cold weather usage. First few attempts at the first installation is that cabling snapped a few times while cooiled.After that I went and grabbed the backup cable that was 3-5 feet shorter but still managed to get it about a foot away from the ground. Before that happened, I wrapped the cabling in a weatherproofing/water resistant tape which took awhile to cover a 40 foot cord. 
+
+
+February 20-25 2018: Went out to Reno Nevada and helped out with a raspberry pi workshop for the upperbound program. Gave a little real world demonstration of where the pi can be used since the ice cellar project is geared in that direction. 
+
+Met some people who have done some awesome things with the devices and asked about some cabling ideas since my original idea for just plain ethernet cabling went in a not so good direction. 
+
+March 2018: Re-affirming myself with the work that I've been doing since I strayed away a bit since schooling, life issues came up. 
