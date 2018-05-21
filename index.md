@@ -1,5 +1,17 @@
 # [Projects I've worked on, click here!](https://ianjon.github.io/projects/)
 
+
+![Image of GINA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv_5O-OGQvGQYYTZj4GiPIRxLsTGk9HcN1t4571XJ8Osx5u8gs) 
+
+![Image of ASRC-Fed](https://mms.businesswire.com/media/20140130006263/en/239078/4/ASRCFederal_Logo_459x245_webready.jpg)
+# ASRC-Federal Extern, UAF-GINA Inter(University of Alaska Fairbanks Geographic Information Network of Alaska, May 2017-Current)
+
+### Job Title: Intern/Lead project developer
+
+Job Description: Began the Ice Cellar Project, for more information click the Projects link. Basic mapping skills such as qaqc(quality assurance/quality control) on varies areas of Alaska. Learned a bit of coding such as python, java, and c++. Knows how to operate Arcmaps and QGIS. 
+
+
+
 ![Image of NSB](http://d14rj7v0r2qnrv.cloudfront.net/wp-content/uploads/2016/04/12160825/logo.jpg)
 
 # NSB WIC ( Women, Infant, Children. December 2016- Early January 2017)
