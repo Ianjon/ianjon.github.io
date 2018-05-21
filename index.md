@@ -4,7 +4,7 @@
 ![Image of GINA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv_5O-OGQvGQYYTZj4GiPIRxLsTGk9HcN1t4571XJ8Osx5u8gs) 
 
 ![Image of ASRC-Fed](https://mms.businesswire.com/media/20140130006263/en/239078/4/ASRCFederal_Logo_459x245_webready.jpg)
-# ASRC-Federal Extern, UAF-GINA Inter(University of Alaska Fairbanks Geographic Information Network of Alaska, May 2017-Current)
+# ASRC-Federal Extern, UAF-GINA Intern(University of Alaska Fairbanks Geographic Information Network of Alaska, May 2017-Current)
 
 ### Job Title: Intern/Lead project developer
 
