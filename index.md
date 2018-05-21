@@ -44,7 +44,7 @@ I was with the insulation foreman, who was teaching me the ropes on applying coa
 Total hours worked: 672 hours
 
 
-![Image of NSB-DWM](http://www.supergreenme.com/data/thumbs/1a/1aeee75c207f0c3bc8c05916b5fb42f4.png) 
+![Image of NSB-DWM](https://s3-media3.fl.yelpcdn.com/bphoto/oLsKPDKtglw9oGR4iiuAug/ls.jpg) 
 # North Slope Borough Department of Wildlife Management (2012,2013,2014)
 ### Job Title: Wildlife Intern 
 
