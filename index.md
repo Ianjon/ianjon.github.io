@@ -9,6 +9,7 @@
 
 Job Description: Began the Ice Cellar Project, for more information click the Projects link. Basic mapping skills such as qaqc(quality assurance/quality control) on varies areas of Alaska. Learned a bit of coding such as python, java, and c++. Knows how to operate Arcmaps and QGIS. 
 
+Also basic computer repair/handling. 
 
 
 ![Image of NSB](http://d14rj7v0r2qnrv.cloudfront.net/wp-content/uploads/2016/04/12160825/logo.jpg)
@@ -98,6 +99,10 @@ Courses Completed: Calculus 3, Differential Equations, Senior in Standing credit
 
 # Skills and Equipment Used
 Data Documentation 
+
+Basic computer repair and building
+
+Basic coding knowledge
 
 Basic science field procedures 
 
