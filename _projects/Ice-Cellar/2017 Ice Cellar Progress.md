@@ -3,6 +3,11 @@ Title: 2017 Ice Cellar Progress update(s)
 layout: default
 ---
 # This project is protected under the MIT License. 
+Ice Cellar project is funded by ASRC-Federal and developed by Ianjon Brower and GINA co-workers. The ice cellar project was started in mind with north slope hunters food storage in mind, since climate has been changing drastically over the years. Their food storage are at potential risk of failures by climate change, since an ice cellar is a natural ice chest freezer, but able to customize to any length you want. Essentially it uses the grounds permafrost to keep everything at frozen temperature for storing. It's made by diggings into the ground, ranging anywhere from 5 feet below to 40 below. Climate change has claimed a few of these natural storage, thawing them out to a point where the food becomes unable to be eaten and flooded.
+
+The project is geared to help those near a home and out of town, so that the owners can get an update/feedback on the conditions of their ice cellar so that they can determine move their hunted game somewhere safer so that all their hard work isn't lost by thawed/failed ice cellars. 
+
+
 June 14, 2017: 
 Managed to create a external power source for my raspberry pi to power it. The down arrow indicates that the temperature is lower than the last recorded temp. 
 ![Here's the image](http://i.imgur.com/ujtKcgH.jpg)  
@@ -114,5 +119,7 @@ Few notes to take from this is that the cabling used is not meant for cold weath
 February 20-25 2018: Went out to Reno Nevada and helped out with a raspberry pi workshop for the upperbound program. Gave a little real world demonstration of where the pi can be used since the ice cellar project is geared in that direction. 
 
 Met some people who have done some awesome things with the devices and asked about some cabling ideas since my original idea for just plain ethernet cabling went in a not so good direction. 
+
+During the trip, I did a real world example by presenting my current project, to show people from across the United State and Peurto Rico that raspberry pi's can be very versatile. 
 
 March 2018: Re-affirming myself with the work that I've been doing since I strayed away a bit since schooling, life issues came up. 
