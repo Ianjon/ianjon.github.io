@@ -1,5 +1,5 @@
 # [Projects I've worked on, click here!](https://ianjon.github.io/projects/)
-
+# References will be given upon request for respect of confidentiality over the internet
 
 ![Image of GINA](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv_5O-OGQvGQYYTZj4GiPIRxLsTGk9HcN1t4571XJ8Osx5u8gs) 
 ![Image of ASRC-Fed](https://mms.businesswire.com/media/20140130006263/en/239078/4/ASRCFederal_Logo_459x245_webready.jpg)
