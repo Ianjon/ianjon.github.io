@@ -119,3 +119,4 @@ Scaffolding equipment
 Rigging lines for heavy objects 
 
 Basic Office Specialist needs
+### If you have any questions, email me at igluqpauraq@gmail.com
